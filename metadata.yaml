@@ -1,0 +1,32 @@
+_repo: Star-book-no-234-mood-fashions_69987
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-02-08'
+identifiers:
+  gutenberg: '69987'
+language: en
+pgterms:marc904: https://archive.org/details/storiaitaliani08cant
+pgterms:marc905: 20200121163913anonymous
+pgterms:marc906: '1874'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aItaly :$bUnione Tipograficp/o-Editrice, $c1874, pubdate 1877.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Star book no. 234: mood fashions'
+url: http://www.gutenberg.org/ebooks/69987
