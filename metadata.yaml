@@ -11,7 +11,12 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
+covers:
+- cover_type: archival
+  image_path: 69987-h/images/back-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69987#Star-book-no-234-mood-fashions
 gutenberg_issued: '2023-02-08'
 identifiers:
   gutenberg: '69987'
